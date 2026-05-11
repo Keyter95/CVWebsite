@@ -105,10 +105,10 @@ function SkeletonAnatomy() {
                 variant="h6"
                 sx={{ textAlign: "center" }}
               >
-                {boneDataActive.heading}
+                {boneDataActive?.heading}
               </Typography>
               <Typography sx={{ mt: 2, textAlign: "center" }}>
-                {boneDataActive.description}
+                {boneDataActive?.description}
               </Typography>
             </>
           ) : (
