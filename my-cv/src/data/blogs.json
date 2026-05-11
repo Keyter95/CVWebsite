@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "author": "Sabbir Hossain",
+    "link": "https://www.sabbirz.com/blog-3d",
+    "topic": "3D models on Webpages"
+  },
+  {
+    "id": 2,
+    "author": "Adarsh Rai",
+    "link": "https://medium.com/@adarshrai3011/mastering-solid-principles-in-javascript-a-comprehensive-guide-3d1ea4755e8a",
+    "topic": "SOLID Principles in JS"
+  },
+  {
+    "id": 3,
+    "author": "Bro Code",
+    "link": "://www.youtube.com/@BroCodez",
+    "topic": "Learn to code in various languages in depth"
+  },
+  {
+    "id": 4,
+    "author": "Dave Gray",
+    "link": "https://www.youtube.com/watch?v=f2EqECiTBL8&t=150s",
+    "topic": "This Node.js tutorial was amazing."
+  },
+  {
+    "id": 5,
+    "author": "Mosh Hamedani",
+    "link": "https://www.youtube.com/@programmingwithmosh",
+    "topic": "I learnt a lot about React here!"
+  },
+  {
+    "id": 6,
+    "author": "Tech with Tim",
+    "link": "https://www.youtube.com/watch?v=G6D9cBaLViA",
+    "topic": "This tutorial singlehandedly taught me React.js!"
+  }
+]

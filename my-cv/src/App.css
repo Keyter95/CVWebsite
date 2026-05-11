@@ -1,0 +1,341 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+:root {
+  --charcoal: #2b2b2b;
+  --coal: #36454f;
+  --lead: #212121;
+  --parchment: #e8dcc4;
+  --bromine: #800000;
+  --bromine2: #a52a2a;
+  --gold: #c5a059;
+  --platinum: #e5e4e2;
+  --mercury: #b7b8b9;
+  --copper: #b87333;
+  --boron: #8f949e;
+  --chlorine: #d8ffe0;
+  --sulfur: #f1dd38;
+  --copperflame: #00a591;
+}
+body {
+  background-color: var(--charcoal);
+}
+#myname {
+  color: var(--copper);
+  font-family: "JetBrains Mono";
+}
+
+#name {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+h1,
+h2,
+h3 {
+  color: var(--copper);
+}
+#home-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+}
+#path-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+#recruiter,
+#techie,
+#philosopher {
+  margin: 20px;
+  border: none;
+  text-align: center;
+  height: 250px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  background-color: var(--coal);
+}
+#recruiter:hover,
+#techie:hover,
+#philosopher:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 0px 35px var(--mercury);
+}
+#card-heading,
+#card-body {
+  color: var(--gold);
+}
+.table_tool {
+  font-family: "Playfair Display", serif !important;
+  font-size: 20px !important;
+}
+#page-heading {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 35px;
+  color: var(--copper);
+}
+#timelineeventopp {
+  color: var(--gold) !important;
+}
+#timelineevent {
+  color: var(--bromine2);
+}
+.linkicon,
+#header-link {
+  color: var(--copper);
+}
+
+#header-link:hover {
+  background-color: var(--chlorine);
+}
+#header-link {
+  font-family: "JetBrains Mono";
+}
+.coding {
+  color: var(--copperflame) !important;
+}
+.educationicon {
+  background-color: var(--bromine2) !important;
+}
+.educationicon.edu_dot {
+  background-color: var(--lead) !important;
+}
+.codingicon {
+  background-color: var(--copperflame) !important;
+}
+.teachingicon {
+  background-color: var(--bromine2) !important;
+}
+.edu_dot:hover {
+  background-color: var(--mercury) !important;
+  cursor: pointer;
+}
+#popover_card {
+  background-color: var(--parchment);
+}
+#coding_popover {
+  color: var(--copperflame) !important;
+}
+#education_popover {
+  color: var(--lead) !important;
+}
+#teaching_popover {
+  color: var(--bromine2) !important;
+}
+.active {
+  background-color: var(--chlorine) !important;
+}
+.drawer {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 15px;
+}
+.drawer-btn {
+  border-color: var(--gold) !important;
+  border-radius: 8px 8px 0 0 !important;
+  color: var(--gold) !important;
+  margin-top: 40px !important;
+}
+.open {
+  border-bottom: none;
+  background-color: rgba(184, 115, 51, 0.1);
+}
+.closed {
+  border-bottom: 1px solid var(--gold);
+  background-color: transparent;
+}
+.drawer-btn:hover {
+  border-color: var(--gold);
+  background-color: rgba(184, 115, 51, 0.05);
+}
+.drawer-card,
+.drawer-content {
+  background-color: var(--platinum);
+  border: none !important;
+  min-width: 50% !important;
+  display: flex !important;
+}
+.drawer-heading {
+  color: var(--bromine2);
+  text-align: center !important;
+  font-size: 25px !important;
+  font-weight: 600 !important;
+  letter-spacing: 2px !important;
+}
+
+.img-header,
+.content-heading,
+#prof-heading {
+  background: transparent !important;
+  text-align: center !important;
+  color: var(--bromine2) !important;
+  font-family: "JetBrains Mono" !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.content {
+  margin-bottom: 2rem !important;
+  color: #444;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+.content-heading {
+  font-size: 2.2rem !important;
+  color: var(--bromine2);
+  border-bottom: 2px solid var(--bromine2);
+  display: inline-block;
+  margin-bottom: 30px !important;
+}
+
+.content-btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1px !important;
+}
+.drawer-overall,
+.drawer-content {
+  background-color: var(--parchment) !important;
+}
+.content-btn {
+  border-color: var(--bromine2) !important;
+  background-color: var(--chlorine) !important;
+  border-radius: 8px 8px 8px 8px !important;
+  color: var(--bromine2) !important;
+}
+.drawer-contents {
+  color: var(--bromine2) !important;
+  font-family: "JetBrains Mono" !important;
+}
+.drawer-contents a {
+  text-decoration: none !important;
+  font-weight: 600;
+  color: var(--bromine) !important;
+  font-family: "JetBrains Mono" !important;
+}
+.drawer-overall:has(.education-timeline) {
+  max-width: 400px !important;
+  margin: auto !important;
+}
+.project-box {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+  gap: 30px;
+  padding: 20px;
+  max-width: 950px;
+  margin: 0 auto;
+}
+.blog-box {
+  display: grid;
+  grid-template-columns: 0.33fr 0.33fr 0.33fr;
+  gap: 20px;
+  padding: 20px;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.project-card,
+.blog_cards {
+  width: 100%;
+  border: 1px solid var(--coal) !important;
+  border-radius: 15px !important;
+  max-height: 350px !important;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease !important;
+  overflow: hidden;
+  background-color: var(--coal) !important;
+}
+
+.project-card:hover,
+.blog_cards:hover {
+  transform: translateY(-10px) !important;
+  box-shadow: 0 20px 40px var(--chlorine) !important;
+  cursor: pointer;
+}
+.project-desc,
+.project-heading,
+.project-link,
+.project-github,
+.blog-desc,
+.blog-heading,
+.blog-link {
+  font-family: "JetBrains Mono" !important;
+  text-align: center;
+}
+.project-heading,
+.blog-heading {
+  color: var(--bromine) !important;
+  font-size: 30px !important;
+}
+.project-desc,
+.blog-desc {
+  color: var(--gold) !important;
+}
+.blog-box a,
+.project-box a {
+  text-decoration: none !important;
+  color: var(--gold) !important;
+}
+
+.nonmetal_skill {
+  background-color: var(--copperflame) !important;
+}
+.metal_skill {
+  background-color: var(--bromine) !important;
+}
+.metalloid_skill {
+  background-color: var(--sulfur) !important;
+}
+
+.legend_container {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  font-family: "JetBrains Mono";
+}
+.link_box,
+.speed_dials {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center;
+  justify-content: center;
+}
+.cv-btn,
+.speed_dial button {
+  background-color: var(--gold) !important;
+  margin: 20px 0 !important;
+  padding: 10px !important;
+}
+.cv-btn:hover {
+  transform: translateY(-2px) !important;
+}
+.dial_action button {
+  padding: 10px !important;
+  background-color: var(--gold) !important;
+  margin: 0 5px !important;
+}
+.edu_modal {
+  background-color: var(--parchment) !important;
+  border: none !important;
+}
+.skeleton_heading {
+  font-family: "JetBrains Mono" !important;
+  color: var(--copper);
+}
+#prof-sent {
+  font-family: "JetBrains Mono" !important;
+  color: var(--bromine) !important;
+}

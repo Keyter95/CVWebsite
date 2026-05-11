@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cube002",
+    "part": "skull",
+    "heading": "The Logic Spark",
+    "description": "Physics taught me how the world works; coding lets me build how it works. That 'brain on fire' feeling when a bug is fixed is the same rush I felt when a student finally grasped Newton's Third Law."
+  },
+  {
+    "name": "Cube",
+    "part": "ribcage",
+    "heading": "The Heart of the Classroom",
+    "description": "I miss the energy of my students every day. My transition hasn't replaced my love for teaching; it has built a protective cage around those core values of mentorship and clear communication."
+  },
+  {
+    "name": "humeroL",
+    "part": "left_arm",
+    "heading": "The Mentor's Reach",
+    "description": "The humerus represents my reach as an educator. Even in tech, I find myself reaching back to those teaching roots to explain complex systems and foster collaboration within my team."
+  },
+  {
+    "name": "humeroR",
+    "part": "right_arm",
+    "heading": "The Builder's Reach",
+    "description": "This is my reach into the IDE. It represents the active extension of my skills into a new frontier, grasping onto logic and syntax to create something from nothing."
+  },
+  {
+    "name": "cubradL",
+    "part": "left_fore_arm",
+    "heading": "Technical Dexterity",
+    "description": "The forearm provides the fine motor skills for the hand. This represents the precision required in Physical Science—measuring, calculating, and observing—now translated into clean, precise code."
+  },
+  {
+    "name": "cubradR",
+    "part": "right_fore_arm",
+    "heading": "The Hand-Off",
+    "description": "This is the bridge between my two careers. It represents the smooth hand-off from a life of lesson plans and grading to a life of pull requests and deployment."
+  },
+  {
+    "name": "Cube001",
+    "part": "thigh",
+    "heading": "The Weight-Bearer",
+    "description": "The femur is the body's strongest bone. Leaving a stable career for the unknown required massive heavy lifting—countless late nights mastering logic while carrying the weight of a total career pivot."
+  },
+  {
+    "name": "Cube005",
+    "part": "shin",
+    "heading": "The Ground Game",
+    "description": "Taking my first 'step' into the coding sphere was daunting. But coaching taught me that progress happens one meter at a time. I moved forward the only way I knew how: one foot in front of the other."
+  },
+  {
+    "name": "omoplatoR",
+    "part": "right_shoulder_blade",
+    "heading": "The Stable Foundation",
+    "description": "Coaching hockey and cricket taught me resilience and discipline. This stable foundation is what keeps me grounded when I'm faced with a particularly stubborn bug or a complex architectural challenge."
+  },
+  {
+    "name": "omoplatoL",
+    "part": "left_shoulder_blade",
+    "heading": "The Pivot",
+    "description": "Just like the flexible scapula, I had to find a new range of motion. I dug deep to reach into a field where I had zero experience and pulled myself up into this new identity as a developer."
+  }
+]

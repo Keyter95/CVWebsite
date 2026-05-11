@@ -1,0 +1,3 @@
+<Typography className="project-github" variant="body2">
+              {parse(project.github)}
+            </Typography>

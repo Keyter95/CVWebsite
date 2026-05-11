@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "education",
+    "heading": "Academic Foundation",
+    "title": "Education",
+    "content": ""
+  },
+  {
+    "id": 2,
+    "type": "professional",
+    "heading": "Professional Compendium",
+    "title": "Professional Life",
+    "content": ""
+  },
+  {
+    "id": 3,
+    "type": "personal",
+    "heading": "Curious Mind",
+    "title": "Personal Life",
+    "content": ""
+  }
+]

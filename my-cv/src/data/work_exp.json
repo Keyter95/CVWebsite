@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "company": "Oprah Winfrey Leadership Academy for Girls",
+    "role": "Science and Mathematics Intern",
+    "period": "2017",
+    "description": "Assisting in teaching of Science and Mathematics Grade 8 - 12.",
+    "icon": "CalculateIcon",
+    "color": "success",
+    "type": "education"
+  },
+  {
+    "id": 2,
+    "company": "Jeppe High School for Girls",
+    "role": "Life Science Educator",
+    "period": "2018-2021",
+    "description": "Teaching Grade 8 - 12 Life Science and coaching various Sporting Codes.",
+    "icon": "SchoolIcon",
+    "color": "info",
+    "type": "education"
+  },
+  {
+    "id": 3,
+    "company": "Afrikaanse Hoërskool Germiston",
+    "role": "Physical Science Educator",
+    "period": "2022",
+    "description": "Educating grade 9 - 12 Physical Science and coaching various sporting codes.",
+    "icon": "ScienceIcon",
+    "color": "warning",
+    "type": "education"
+  },
+  {
+    "id": 4,
+    "company": "Afrikaanse Hoërskool Germiston",
+    "role": "Physical Science Head of Department",
+    "period": "2023",
+    "description": "Managing Department Resources as well as educators assigned to my department. Curriculum development and Assessment and Moderation.",
+    "icon": "SupervisorAccountIcon",
+    "color": "secondary",
+    "type": "education"
+  },
+  {
+    "id": 5,
+    "company": "MIP Holdings",
+    "role": "Junior Software Engineer",
+    "period": "2023 - 2024",
+    "description": "Building Financial Trust solutions using Progress ABL and successfully implementing new solutions for clients.",
+    "icon": "LaptopMacIcon",
+    "color": "error",
+    "type": "coding"
+  },
+  {
+    "id": 6,
+    "company": "MIP Holdings",
+    "role": "Intermediate Software Engineer",
+    "period": "2024 - Current",
+    "description": "Building Short Term Insurance solutions using Progress ABL as well as building integrated UI/UX screens to suit the user.",
+    "icon": "DevicesIcon",
+    "color": "primary",
+    "type": "coding"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "heading": "The Family",
+    "type": "family",
+    "content": "My partner and I are from Alberton, Johannesburg where we live with our two furbabies. They are both mixed breeds, but I am sure I see some dog in there somewhere! Felix is a 5 year old Chihuahua cross Miniature Pinscher. See the photo alongside, and decide for yourself how accurate you think that description is! Jonty is a year and a half old Canine, whom the rescue did not even attempt to identify. I suspect his grandparents might have been decendants of Dobby the Free Elf, as he also loves a wandering sock!"
+  },
+  {
+    "id": 2,
+    "heading": "The Amateur Athlete",
+    "type": "athlete",
+    "content": "I absolutely love sports, and I participate in many myself. In summer seasons we play Ringtennis (If you have never heard of it, click <a href='https://www.youtube.com/watch?v=8gwbCBBTlsA'target='_blank'>this </a>useful link to see it being played!) In winter, I fancy a field hockey game just to make sure the adrenal glands are still working well, and to soothe myself that I am indeed not that old, yet! I recently took up running, and while very average at it, now I can at least tell people I don't just run out of money and patience! Gerda Steyn must watch out for me in the next Two Oceans! (If Gerda Steyn ever reads this, my account was hacked and please disregard this statement. It is under no circumstances a challenge!) I also play the occasional round of golf, and I am by no means the next Lee-Anne Pace, but I am normally one under! (One under the tree, one under the cart, one under the bush) But who is keeping score!"
+  },
+  {
+    "id": 3,
+    "heading": "The Mystery Reader",
+    "type": "reading",
+    "content": "I am an avid reader of all things murder mystery. My favourite author currently is Karen Slaughter, and since I have run out of new books to read I have also started reading Karen Rose. My superpower includes being able to remember which page I closed the book on without using a bookmark, and still actively participating in conversations around me while walking the crime scene alongside Karin Slaughter's Will Trent!"
+  },
+  {
+    "id": 4,
+    "heading": "The Sports Enthusiast",
+    "type": "sport",
+    "content": "My partner and I are also very passionate watchers of all sports relating to South Africa, and every rugby season we have to pass around ear plugs to all the neighbours and patiently reassure them that no person (or dog) was harmed in the watching of this SA Rugby production. We also get too excited about cricket, whether the Protea ladies are playing or the SA20 league is on. You would swear our screaming alone can be heard in those same stadiums. On our collective bucketlist, is to not only watch a match of every National Sporting Code, but also to see the National cricket and rugby sides play in every stadium across our country. (If FlySafair ever reads this, a flight sponsorship would be amazing!)"
+  },
+  {
+    "id": 5,
+    "heading": "The Amelia Earhart",
+    "type": "adventure",
+    "content": "My partner and I love nature, travelling and adventures! We are steadily working our way through South Africa like tourists, and pushing our comfort zone boundries continously with new adventures! Recently we decided to start touring the country on Adventure bikes, but until I can stop riding like a newborn Gazelle walks, I will be flying to other places!"
+  }
+]

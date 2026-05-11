@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "institute": "freeCodeCamp - 2026",
+    "cert": "Python Certification",
+    "icon": "coding",
+    "description": "A certification that taught me how to use Python as a server side, backend language."
+  },
+  {
+    "id": 2,
+    "institute": "freeCodeCamp - 2026",
+    "cert": "JavaScript Certification",
+    "icon": "coding",
+    "description": "A certification that taught me the basics of JavaScript, some more advanced JavaScript and how to use it in Frontend Development."
+  },
+  {
+    "id": 3,
+    "institute": "freeCodeCamp - 2026",
+    "cert": "HTML and CSS Certification",
+    "icon": "coding",
+    "description": "A certification in the basics of HTML coding and CSS styling that allowed me to form a foundation for UI/UX design."
+  },
+  {
+    "id": 4,
+    "institute": "freeCodeCamp & Microsoft - 2025",
+    "cert": "Foundational C# Certification",
+    "icon": "coding",
+    "description": "A comprehensive certification introducing me to the basic syntax, core concepts and application of C#."
+  },
+
+  {
+    "id": 6,
+    "institute": "Microsoft - 2023",
+    "cert": "Azure Data Engineer Associate",
+    "icon": "coding",
+    "description": "Passed the  DP-203 exam relating to Data Storage, Data Processing, Data Security and Optimization using specific Azure skills."
+  },
+  {
+    "id": 7,
+    "institute": "Microsoft - 2023",
+    "cert": "Azure Data Fundamentals",
+    "icon": "coding",
+    "description": "Passed the DP-900 exam relating to core data concepts and related Microsoft Azure data services."
+  },
+  {
+    "id": 8,
+    "institute": "University of South Africa - 2017",
+    "cert": "PGCE - Science and Mathematics",
+    "icon": "teaching",
+    "description": "A post graduate certificate allowing me to teach Natural Sciences, Life Sciences, Mathematics as well as Physical Sciences for Grade 8 - 12 learners."
+  },
+  {
+    "id": 9,
+    "institute": "North West University - 2014 - 2016",
+    "cert": "BSc Zoology and Physiology",
+    "icon": "teaching",
+    "description": "Passed my degree Cum Laude, with 2 years of Chemistry included."
+  },
+  {
+    "id": 10,
+    "institute": "Hoërskool Bergvlam - 2013",
+    "cert": "Matric",
+    "icon": "education",
+    "description": "7 Distinctions, including Afrikaans, English, Life Orientation, Mathematics, Life Science, Accounting and Computer Applications Technology. My 8th subject was Physical Sciences."
+  }
+]

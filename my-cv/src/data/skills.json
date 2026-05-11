@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "symbol": "Js",
+    "type": "nonmetal",
+    "description": "JacaScript Proficiency",
+    "col": 1,
+    "row": 1
+  },
+  {
+    "id": 2,
+    "symbol": "P",
+    "type": "nonmetal",
+    "description": "Progress ABL Proficiency",
+    "col": 9,
+    "row": 1
+  },
+  {
+    "id": 3,
+    "symbol": "Tm",
+    "type": "metal",
+    "description": "Good Time Management skills",
+    "col": 1,
+    "row": 2
+  },
+  {
+    "id": 4,
+    "symbol": "I",
+    "type": "metal",
+    "description": "Strong Independent Working Ability",
+    "col": 2,
+    "row": 2
+  },
+  {
+    "id": 5,
+    "symbol": "Ps",
+    "type": "metalloid",
+    "description": "A great love for Problem Solving",
+    "col": 6,
+    "row": 2
+  },
+  {
+    "id": 6,
+    "symbol": "Py",
+    "type": "nonmetal",
+    "description": "Python Proficiency",
+    "col": 7,
+    "row": 2
+  },
+  {
+    "id": 7,
+    "symbol": "CSS",
+    "type": "nonmetal",
+    "description": "CSS Styling Proficiency",
+    "col": 8,
+    "row": 2
+  },
+  {
+    "id": 8,
+    "symbol": "HTML",
+    "type": "nonmetal",
+    "description": "Using HTML for Websites proficiency",
+    "col": 9,
+    "row": 2
+  },
+  {
+    "id": 9,
+    "symbol": "Sp",
+    "type": "metal",
+    "description": "Ability to Strategically Plan out a Project",
+    "col": 1,
+    "row": 3
+  },
+  {
+    "id": 10,
+    "symbol": "L",
+    "type": "metal",
+    "description": "Ability to Lead a Team",
+    "col": 2,
+    "row": 3
+  },
+  {
+    "id": 11,
+    "symbol": "C",
+    "type": "metal",
+    "description": "Ability to Effectively Communicate",
+    "col": 6,
+    "row": 3
+  },
+  {
+    "id": 12,
+    "symbol": "Ad",
+    "type": "metalloid",
+    "description": "Attention To Detail",
+    "col": 7,
+    "row": 3
+  },
+  {
+    "id": 13,
+    "symbol": "R",
+    "type": "nonmetal",
+    "description": "React.JS Proficiency for frontend applications",
+    "col": 8,
+    "row": 3
+  },
+  {
+    "id": 14,
+    "symbol": "Nj",
+    "type": "nonmetal",
+    "description": "Node.JS proficiency for serverside applications",
+    "col": 9,
+    "row": 3
+  },
+  {
+    "id": 15,
+    "symbol": "Ex",
+    "type": "metal",
+    "description": "Ability to clearly and simply explain complicated concepts",
+    "col": 1,
+    "row": 4
+  },
+  {
+    "id": 16,
+    "symbol": "In",
+    "type": "metal",
+    "description": "Ability to maintain positive interpersonal relationships",
+    "col": 2,
+    "row": 4
+  },
+  {
+    "id": 17,
+    "symbol": "Qa",
+    "type": "metal",
+    "description": "Ability to make sure documents or tasks have a certain Quality",
+    "col": 3,
+    "row": 4
+  },
+  {
+    "id": 18,
+    "symbol": "Sc",
+    "type": "metal",
+    "description": "Ability to communicate progress to all stakeholders",
+    "col": 4,
+    "row": 4
+  },
+  {
+    "id": 19,
+    "symbol": "Ct",
+    "type": "metal",
+    "description": "Ability to continuously learn new skills",
+    "col": 5,
+    "row": 4
+  },
+  {
+    "id": 20,
+    "symbol": "Pr",
+    "type": "metal",
+    "description": "Ability to provide constructive feedback to my peers",
+    "col": 6,
+    "row": 4
+  },
+  {
+    "id": 21,
+    "symbol": "P",
+    "type": "metalloid",
+    "description": "Pattern Recognition",
+    "col": 7,
+    "row": 4
+  },
+  {
+    "id": 22,
+    "symbol": "L",
+    "type": "metalloid",
+    "description": "Logical thinking",
+    "col": 8,
+    "row": 4
+  },
+  {
+    "id": 23,
+    "symbol": "Mu",
+    "type": "nonmetal",
+    "description": "Ability to use MUI components",
+    "col": 9,
+    "row": 4
+  },
+  {
+    "id": 24,
+    "symbol": "Ad",
+    "type": "metal",
+    "description": "Ability to adapt as and when circumstances change",
+    "col": 1,
+    "row": 5
+  },
+  {
+    "id": 25,
+    "symbol": "Rm",
+    "type": "metal",
+    "description": "Ability to effectively manage resources provided to me",
+    "col": 2,
+    "row": 5
+  },
+  {
+    "id": 26,
+    "symbol": "Ea",
+    "type": "metal",
+    "description": "Awareness of ethics, liability as well as intellectual property",
+    "col": 3,
+    "row": 5
+  },
+  {
+    "id": 27,
+    "symbol": "Ps",
+    "type": "metal",
+    "description": "I am comfortable presenting ideas to groups",
+    "col": 4,
+    "row": 5
+  },
+  {
+    "id": 28,
+    "symbol": "Rt",
+    "type": "metal",
+    "description": "Ability to troubleshoot and be resilient about it!",
+    "col": 5,
+    "row": 5
+  },
+  {
+    "id": 29,
+    "symbol": "Al",
+    "type": "metal",
+    "description": "Ability to actively listen and understand what is being asked or said",
+    "col": 6,
+    "row": 5
+  },
+  {
+    "id": 30,
+    "symbol": "Tw",
+    "type": "metal",
+    "description": "Ability to effectively work in a team",
+    "col": 7,
+    "row": 5
+  },
+  {
+    "id": 31,
+    "symbol": "O",
+    "type": "metalloid",
+    "description": "Organisation of thoughts and Ideas",
+    "col": 8,
+    "row": 5
+  },
+  {
+    "id": 32,
+    "symbol": "Zu",
+    "type": "nonmetal",
+    "description": "Proficiency in using Zustand for state management",
+    "col": 9,
+    "row": 5
+  }
+]
