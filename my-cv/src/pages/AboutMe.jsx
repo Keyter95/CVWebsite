@@ -34,7 +34,6 @@ function AboutMe() {
         The Anatomy of the Architect
       </Typography>
       <Box sx={{ width: "100%", mt: 3 }}>
-        {/* Center the top buttons */}
         <Box
           className="drawer"
           sx={{ display: "flex", justifyContent: "center", mb: 2 }}
